@@ -12,4 +12,8 @@ RUN pip3 install flask
 
 EXPOSE 5000
 
-RUN flask run --host=0.0.0.0
+COPY . .
+
+ENV FLASK_APP=ctf.py
+
+CMD ["python3", "-m", "flask", "run", "--host=0.0.0.0"]
