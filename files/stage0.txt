@@ -1,0 +1,9 @@
+<br>
+<p><center><u>Stage 0: Introduction</u></center></p><br>
+This page is to get you familiar with the format of this challenge.
+<br><br>
+The password for this stage is 'a'
+<br><br>
+Get the hint by appending '/?hint=T' to this URL and hitting enter.
+<br><br>
+I recommend writing down future passwords so that you can return to a stage at a later time if you so desire.

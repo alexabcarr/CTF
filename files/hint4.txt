@@ -1,0 +1,7 @@
+Hint for stage 4:
+<br><br>
+There are many websites to decode Vigenère ciphers, if you don't want to make your own. 
+<br><br>
+This one may also require a little bit of brute force. The final password will be a string of English words.
+<br><br>
+Recommended song: <a href='/play-mp3/9'>Learn How To Surf</a> This isn't the password, though :) (the password is above it)

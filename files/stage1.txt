@@ -1,0 +1,9 @@
+<br>
+<p><center><u>Stage 1: Password Cracking</u></center></p><br>
+This password is the same as the password to the ftp server located on the same machine as this client. 
+<br><br>
+The username to the ftp server is 'ayoung'
+<br><br>
+The password is an all lowercase string that is a permutation of the three most frequent words of at least eight letters in Coco Moon! For the lyrics for a given song, you can go to /lyrics/song-name, replacing song-name with the name of the song you'd like to see the lyrics of. Try adding '&song=all' to see all song names.
+<br><br>
+When you've found the password, replace the current password with it to continue.

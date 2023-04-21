@@ -1,0 +1,10 @@
+<br>
+<p><center><u>Stage 4: Vigenère Ciphers</u></center></p><br>
+The password for the next stage is: vohyvyxymbiaffrrj     
+<small><small><small><small>(Kind of!)</small></small></small></small>
+<br><br>
+It's been encoded using a Vigenère cipher!
+<br><br>
+Don't worry, the password for the cipher is located in the Stage4 folder. 
+<br><br>
+However, there are 11 possible passwords for the cipher :)

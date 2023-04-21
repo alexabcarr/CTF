@@ -1,0 +1,13 @@
+Hint for stage 1:
+<br><br>
+This stage can be executed in three commands.
+<br><br>
+1. A cewl command using the -m and --lowercase tags.
+<br><br>
+2. A crunch command using the top three words of the previous output and the -p tag.
+<br><br>
+3. A hydra command with the username 'ayoung' and the output from the previous output.
+<br><br>
+Recommended song: <a href='/play-mp3/1'>Adam, Check Please</a>
+<br><br><br>...<br><br><br>
+Wouldn't it be convenient if there was a page that had the lyrics for ALL songs in the album?

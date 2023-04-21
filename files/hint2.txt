@@ -1,0 +1,9 @@
+Hint for stage 2:
+<br><br>
+1. Using a utility, RECOVER any JPEGs from dinosaur-park.raw
+<br><br>
+2. (optional) Determine which image is relevant. The target image shares a theme with the .raw file :)
+<br><br>
+3. Examine the EXIF data for the (relevant) image. The password is the text in the 'description' field.
+<br><br>
+Recommended song: <a href='/play-mp3/8'>Dinosaur Park</a>

@@ -1,0 +1,19 @@
+Hint 0:
+<br><br>
+To enter the password right now, append '&pw=x' to the URL, where x is the password, then hit enter.
+<br><br>
+You can hide the hint for the next stage by removing 'hint=T' from the URL ('&' optional to remove) and hitting enter.
+<br><br>
+You can also play a song by appending 'song=<songNum>' using a number from 1-11, but this is completely optional!
+<br><br>
+Try the following examples:
+<br>
+<a href='http://localhost:8000/?hint=T'>localhost:8000/?hint=T</a>
+<br>
+<a href='http://localhost:8000/?pw=gasd'>localhost:8000/?pw=gasd</a>
+<br>
+<a href='http://localhost:8000/?pw=gasd&hint=asdf'>localhost:8000/?pw=gasd&hint=asdf</a>
+<br>
+<a href='http://localhost:8000/?song=all&hint=T&pw=vc'>localhost:8000/?song=all&hint=T&pw=vc</a>
+<br>
+<a href='http://localhost:8000/?pw=a&hint=F'>localhost:8000/?pw=a&hint=F</a>

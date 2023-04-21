@@ -1,0 +1,7 @@
+<br>
+<p><center><u>Stage 3: XOR'ing Bits</u></center></p><br>
+In the Stage3 folder of the ftp server, there are many files. Only three are relevant, and only two are required to complete the stage. 
+<br><br>
+One file contains the password to move onto the next stage, XOR'd with the contents of file two.
+<br><br>
+File three contains a short python utility that you may find helpful if you are unfamiliar with this manner of bit manipulation. 

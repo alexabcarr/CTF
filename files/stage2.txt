@@ -1,0 +1,5 @@
+<br>
+<p><center><u>Stage 2: File Carving + Metadata Examination</u></center></p><br>
+Now that you've connected to the ftp server in another terminal window, navigate to the Stage2 folder.
+<br><br>
+This folder has a .raw image that hides a few jpegs. You may need to download a utility in order to recover these jpegs. In the EXIF data of one of these jpegs is the password to proceed. 

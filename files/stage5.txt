@@ -1,0 +1,5 @@
+<br>
+<p><center><u>Congratulations!</u></center></p><br>
+You've completed this CTF exercise!
+<br><br>
+This page will tell you the final password to enter into the CTFd platform.

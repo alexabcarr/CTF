@@ -1,0 +1,7 @@
+Hint for stage 3:
+<br><br>
+1. First, determine which two .txt files are relevant. Your sub-hint is: Owl City
+<br><br>
+2. Using these two files (and possibly the third, .py utility from this folder), determine the password to advance. 
+<br><br>
+Recommended Song: <a href='/play-mp3/2'>Under the Circus Lights</a>

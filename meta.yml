@@ -1,0 +1,20 @@
+name: Owl City CTF
+description: |
+	This challenge is themed after Owl City's eighth studio album, Coco Moon, which released on March 24th, 2023. 
+
+	Connection instructions:
+	(unsure)
+	ssh -L localhost:<local port>:container_ip:container_port -p 56151 <username>@cs561.cs.umass.edu
+	Connect to the site at localhost:8000
+
+	Suggested skills:
+		-Password cracking
+		-Disc image and file forensics (carving / viewing EXIF data)
+		-XOR'ing bytes for encryption purposes
+		-Vigenère ciphers
+value: 100
+category: Miscellaneous
+flag: CTF_SDaT{C0c0_M00n}
+
+#administrative
+container_name: owl-city-ctf
