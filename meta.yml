@@ -8,7 +8,8 @@ description: |
 	In another terminal, enter this command: <br>
 	ssh -L <local port 2>:ftp-server:21 -p 56151 <username>@cs561.cs.umass.edu <br> 
 	Connect to the site at localhost:8000 <br>
-	In Stage 1, the FTP server is located at localhost:<local port 2> for password cracking purposes. 
+	In Stage 1, the FTP server is located at localhost:<local port 2> for password cracking purposes. (The -s option will be helpful if you choose to use Hydra!)<br>
+	From that point on, refer to the Google Drive folder located <a href="https://drive.google.com/drive/folders/1GU-jozn8SrIXk-Do-1I8wwZgF9HIpWpA?usp=share_link" target="_blank"> here</a> instead of the FTP server when a file is needed. <br>
 
 	Suggested skills: <br>
 		-Password cracking <br>
