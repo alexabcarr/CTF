@@ -2,19 +2,19 @@ name: Owl City CTF
 description: |
 	This challenge is themed after Owl City's eighth studio album, Coco Moon, which released on March 24th, 2023. 
 
-	Connection instructions: <br>
-	In one terminal, enter the following command: <br>
-	ssh -L <local port 1>:alexa_ctf_web_1:5000 -p 56151 <username>@cs561.cs.umass.edu <br>
-	In another terminal, enter this command: <br>
-	ssh -L <local port 2>:ftp-server:21 -p 56151 <username>@cs561.cs.umass.edu <br> 
-	Connect to the site at localhost:8000 <br>
-	In Stage 1, the FTP server is located at localhost:<local port 2> for password cracking purposes. (The -s option will be helpful if you choose to use Hydra!)<br>
-	From that point on, refer to the Google Drive folder located <a href="https://drive.google.com/drive/folders/1GU-jozn8SrIXk-Do-1I8wwZgF9HIpWpA?usp=share_link" target="_blank"> here</a> instead of the FTP server when a file is needed. <br>
+	Connection instructions: <br/><br/>
+	In one terminal, enter the following command: <br/><br/>
+	ssh -L <local port 1>:alexa_ctf_web_1:5000 -p 56151 <username>@cs561.cs.umass.edu <br/><br/>
+	In another terminal, enter this command: <br/><br/>
+	ssh -L <local port 2>:ftp-server:21 -p 56151 <username>@cs561.cs.umass.edu <br/><br/>
+	Connect to the site at localhost:8000 <br/><br/>
+	In Stage 1, the FTP server is located at localhost:<local port 2> for password cracking purposes. (The -s option will be helpful if you choose to use Hydra!)<br/><br/>
+	From that point on, refer to the Google Drive folder located <a href="https://drive.google.com/drive/folders/1GU-jozn8SrIXk-Do-1I8wwZgF9HIpWpA?usp=share_link" target="_blank"> here</a> instead of the FTP server when a file is needed. <br/><br/>
 
-	Suggested skills: <br>
-		-Password cracking <br>
-		-Disc image and file forensics (carving / viewing EXIF data) <br>
-		-XOR'ing bytes for encryption purposes <br>
+	Suggested skills: <br/><br/>
+		-Password cracking <br/><br/>
+		-Disc image and file forensics (carving / viewing EXIF data) <br/><br/>
+		-XOR'ing bytes for encryption purposes <br/><br/>
 		-Vigenère ciphers 
 value: 100
 category: Miscellaneous
