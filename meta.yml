@@ -18,7 +18,7 @@ description: |
 		-Vigenère ciphers 
 value: 100
 category: Miscellaneous
-flag: CTF_SDaT{C0c0_M00n}
+flag: SDaT{c0c0-m00n}
 
 #administrative
 container_name: owl-city-ctf
